@@ -10,6 +10,8 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/YvaEm/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/YvaEm/azure-network-protocols)
 
+- <b>Linux</b>
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
