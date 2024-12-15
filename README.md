@@ -11,6 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/YvaEm/azure-network-protocols)
 
 - <b>Linux</b>
+  - [Manage Files from the Command Line](https://github.com/YvaEm/configure-ad)
 
 <h2>Connect with me:</h2>
 
