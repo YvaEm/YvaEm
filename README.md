@@ -12,7 +12,7 @@
 
 - <b>Linux</b>
   - [Redhat Linux: Manage Files from the Command Line](https://github.com/YvaEm/manage-files-from-command-line)
-  - [Redhat Linux: Manage Files from the Command Line](https://github.com/YvaEm/manage-user-groups-permissions-processes)
+  - [Redhat Linux: Manage User Groups Permissions and Processes](https://github.com/YvaEm/manage-user-groups-permissions-processes)
 
 <h2>Connect with me:</h2>
 
